@@ -1,2 +1,1 @@
-# test-nextjs-check
-test
+# README
